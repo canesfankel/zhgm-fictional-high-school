@@ -142,16 +142,16 @@
       "cid": 0,
       "did": 0,
       "region": "Glenview High School",
-      "name": "Tigers",
+      "name": "Cougars",
       "abbrev": "GHS",
       "pop": 0.0105,
       "stadiumCapacity": 1200,
-      "imgURL": "https://i.imgur.com/dz5vkvb.png",
+      "imgURL": "https://i.imgur.com/VjP8J3m.png",
       "jersey": "hockey3",
       "colors": [
-        "#161618",
-        "#FFFFFF",
-        "#691e20"
+        "#0d4d2a",
+        "#fbd244",
+        "#FFFFFF"
       ]
     },
     {
@@ -164,11 +164,11 @@
       "pop": 0.0148,
       "stadiumCapacity": 1200,
       "imgURL": "https://i.imgur.com/JI6DrrN.png",
-      "jersey": "hockey2",
+      "jersey": "hockey",
       "colors": [
         "#f1622f",
         "#161618",
-        "#161618"
+        "#FFFFFF"
       ]
     },
     {
@@ -198,7 +198,7 @@
       "pop": 0.00495,
       "stadiumCapacity": 1000,
       "imgURL": "https://i.imgur.com/6SfdCQQ.png",
-      "jersey": "hockey3",
+      "jersey": "hockey",
       "colors": [
         "#FFFFFF",
         "#161618",
@@ -217,9 +217,9 @@
       "imgURL": "https://i.imgur.com/e9kbS3b.png",
       "jersey": "hockey2",
       "colors": [
-        "#27438d",
-        "#FFFFFF",
-        "#ababab"
+        "#003096",
+        "#ababab",
+        "#FFFFFF"
       ]
     },
     {
@@ -268,9 +268,9 @@
       "imgURL": "https://i.imgur.com/2KG6HqX.png",
       "jersey": "hockey2",
       "colors": [
-        "#7c7c7c",
         "#161618",
-        "#161618"
+        "#7c7c7c",
+        "#7c7c7c"
       ]
     },
     {
@@ -295,16 +295,16 @@
       "cid": 0,
       "did": 0,
       "region": "Shorewood High School",
-      "name": "Greyhounds",
+      "name": "Infernos",
       "abbrev": "SHS",
       "pop": 0.0167,
       "stadiumCapacity": 1500,
-      "imgURL": "https://i.imgur.com/5CSZgDo.png",
+      "imgURL": "https://i.imgur.com/jhLkIx8.png",
       "jersey": "hockey2",
       "colors": [
-        "#da3e33",
-        "#FFFFFF",
-        "#FFFFFF"
+        "#C8102E",
+        "#FFD100",
+        "#FFD100"
       ]
     },
     {
@@ -329,7 +329,7 @@
       "cid": 0,
       "did": 0,
       "region": "Pinnacle Valley High School",
-      "name": "Miners",
+      "name": "Vikings",
       "abbrev": "PHS",
       "pop": 0.0143,
       "stadiumCapacity": 1200,
@@ -355,7 +355,7 @@
       "colors": [
         "#998675",
         "#FFFFFF",
-        "#FFFFFF"
+        "#161618"
       ]
     },
     {
@@ -385,7 +385,7 @@
       "pop": 0.00842,
       "stadiumCapacity": 1150,
       "imgURL": "https://i.imgur.com/m3MwFdz.png",
-      "jersey": "hockey2",
+      "jersey": "hockey3",
       "colors": [
         "#7750a8",
         "#FFFFFF",
@@ -397,7 +397,7 @@
       "cid": 0,
       "did": 0,
       "region": "Westlake High School",
-      "name": "Warriors",
+      "name": "Wanderers",
       "abbrev": "WHS",
       "pop": 0.0184,
       "stadiumCapacity": 1600,
@@ -427,6 +427,7 @@
     "salaryCapType": "none",
     "budget": false,
     "aiJerseyRetirement": false,
+    "allStarGame": false,
     "minContract": 0,
     "maxContract": 0,
     "minPayroll": 0,
@@ -435,16 +436,15 @@
       4
     ],
     "injuryRate": 0.000081,
-    "pace": 0.86,
+    "pace": 0.88,
     "heightFactor": 0.96,
     "weightFactor": 0.84,
-    "blockFactor": 1.19,
-    "hitFactor": 1.43,
+    "blockFactor": 1.34,
+    "hitFactor": 1.76,
     "assistFactor": 1,
     "saveFactor": 1,
     "tradeDeadline": 1,
     "aiTradesFactor": 0,
-    "allStarGame": -1,
     "minRetireAge": 16,
     "numGames": 28,
     "numGamesConf": null,
