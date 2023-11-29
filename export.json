@@ -333,12 +333,12 @@
       "abbrev": "PHS",
       "pop": 0.0143,
       "stadiumCapacity": 1200,
-      "imgURL": "https://i.imgur.com/hxIJ2f5.png",
-      "jersey": "hockey2",
+      "imgURL": "https://i.imgur.com/D45cdbh.png",
+      "jersey": "hockey3",
       "colors": [
+        "#477527",
         "#FFFFFF",
-        "#6f0020",
-        "#6f0020"
+        "#ffc525"
       ]
     },
     {
@@ -436,10 +436,10 @@
       4
     ],
     "injuryRate": 0.000081,
-    "pace": 0.88,
+    "pace": 0.92,
     "heightFactor": 0.96,
     "weightFactor": 0.84,
-    "blockFactor": 1.34,
+    "blockFactor": 1.18,
     "hitFactor": 1.76,
     "assistFactor": 1,
     "saveFactor": 1,
@@ -448,6 +448,9 @@
     "minRetireAge": 16,
     "numGames": 28,
     "numGamesConf": null,
+    "numDraftRounds": 7,
+    "draftPickAutoContract": true,
+    "draftPickAutoContractRounds": 7,
     "numGamesDiv": null,
     "playoffsNumTeamsDiv": 8,
     "rookiesCanRefuse": false,
