@@ -457,6 +457,7 @@
     "rookiesCanRefuse": false,
     "draftType": "random",
     "maxRosterSize": 24,
+    "minRosterSize": 21,
     "forceRetireAge": 18,
     "numGamesPlayoffSeries": [
       1,
