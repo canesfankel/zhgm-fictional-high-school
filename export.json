@@ -428,6 +428,7 @@
     "budget": false,
     "aiJerseyRetirement": false,
     "allStarGame": false,
+    "challengeNoTrades": true,
     "minContract": 0,
     "maxContract": 0,
     "minPayroll": 0,
