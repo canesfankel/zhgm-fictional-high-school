@@ -443,7 +443,7 @@
     "blockFactor": 1.18,
     "hitFactor": 1.76,
     "assistFactor": 1,
-    "saveFactor": 1,
+    "saveFactor": 1.02,
     "tradeDeadline": 1,
     "aiTradesFactor": 0,
     "minRetireAge": 16,
@@ -453,12 +453,13 @@
     "draftPickAutoContract": true,
     "draftPickAutoContractRounds": 7,
     "numGamesDiv": null,
-    "playoffsNumTeamsDiv": 8,
     "rookiesCanRefuse": false,
     "draftType": "random",
-    "maxRosterSize": 24,
+    "maxRosterSize": 23,
     "minRosterSize": 21,
     "forceRetireAge": 18,
+    "playoffsNumTeamsDiv": 8,
+    "pointsFormula": "3*W+OTL+T",
     "numGamesPlayoffSeries": [
       1,
       1,
@@ -14465,7 +14466,7 @@
             "brown": 3,
             "white": 93
           },
-          "flag": "https://cdn.discordapp.com/attachments/1052322643556171816/1052324984120410222/unitedstates.png"
+          "flag": "https://imgur.com/RUT3TEF.png"
         }
       },
       "frequencies": {
@@ -14473,5 +14474,6 @@
         "United States": 500
       }
     }
-  }
+  },
+  "version": 59
 }
